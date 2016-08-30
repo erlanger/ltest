@@ -12,8 +12,7 @@
 
    It is disabled because normally you want
    to see the test suite finishing without
-   errors.
-  "
+   errors."
   (behaviour ltest-unit1))
 
 (include-lib "include/ltest-macros.lfe")
